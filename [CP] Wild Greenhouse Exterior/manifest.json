@@ -1,0 +1,10 @@
+{
+   "Name": "[CP] Wild Greenhouse Exterior",
+   "Author": "StarAmy",
+   "Version": "1.0.0",
+   "Description": "Provides a set of stylized, seasonal building skins for the greenhouse.",
+   "UniqueID": "Staramy.GreenhouseSkin",
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher"
+   },
+}

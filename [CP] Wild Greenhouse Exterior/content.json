@@ -1,0 +1,179 @@
+{
+	"Format": "1.20.0",
+  "ConfigSchema": {
+    "Version": {
+      "AllowValues": "Vanilla, Eemie",
+      "Default": "Vanilla"
+      },
+  },
+	"Changes": [
+     {
+      "LogName": "Spring Daytime Animated Greenhouse",
+      "Action": "EditImage",
+      "Target": "Buildings/Greenhouse",
+      "FromFile": "assets/{{version}}/Spring/Day.png",
+      "FromArea": {
+        "X": 0,
+        "Y": 0,
+        "Width": 240,
+        "Height": 320
+      },
+      "AnimationFrameTime": 30,
+      "AnimationFrameCount": 2,
+      "When": {
+        "HasMod": "spacechase0.ContentPatcherAnimations",
+        "Time": "{{Range: 0600, 1900}}",
+        "Season": "Spring",
+        "Version": "Eemie"
+      },
+      "Update": "OnTimeChange"
+    },
+     {
+      "LogName": "Spring Nighttime Animated Greenhouse",
+      "Action": "EditImage",
+      "Target": "Buildings/Greenhouse",
+      "FromFile": "assets/{{version}}/Spring/Night.png",
+      "FromArea": {
+        "X": 0,
+        "Y": 0,
+        "Width": 240,
+        "Height": 320
+      },
+      "AnimationFrameTime": 30,
+      "AnimationFrameCount": 2,
+      "When": {
+        "HasMod": "spacechase0.ContentPatcherAnimations",
+        "Time": "{{Range: 1900, 2600}}",
+        "Season": "Spring",
+        "Version": "Eemie"
+      },
+      "Update": "OnTimeChange"
+    },
+      {
+      "LogName": "Summer Daytime Animated Greenhouse",
+      "Action": "EditImage",
+      "Target": "Buildings/Greenhouse",
+      "FromFile": "assets/{{version}}/Summer/Day.png",
+      "FromArea": {
+        "X": 0,
+        "Y": 0,
+        "Width": 240,
+        "Height": 320
+      },
+      "AnimationFrameTime": 30,
+      "AnimationFrameCount": 2,
+      "When": {
+        "HasMod": "spacechase0.ContentPatcherAnimations",
+        "Time": "{{Range: 0600, 1900}}",
+        "Season": "Summer",
+        "Version": "Eemie"
+      },
+      "Update": "OnTimeChange"
+    },
+     {
+      "LogName": "Summer Nighttime Animated Greenhouse",
+      "Action": "EditImage",
+      "Target": "Buildings/Greenhouse",
+      "FromFile": "assets/{{version}}/Summer/Night.png",
+      "FromArea": {
+        "X": 0,
+        "Y": 0,
+        "Width": 240,
+        "Height": 320
+      },
+      "AnimationFrameTime": 30,
+      "AnimationFrameCount": 2,
+      "When": {
+        "HasMod": "spacechase0.ContentPatcherAnimations",
+        "Time": "{{Range: 1900, 2600}}",
+        "Season": "Summer",
+        "Version": "Eemie"
+      },
+      "Update": "OnTimeChange"
+    },
+      {
+      "LogName": "Fall Daytime Animated Greenhouse",
+      "Action": "EditImage",
+      "Target": "Buildings/Greenhouse",
+      "FromFile": "assets/{{version}}/Fall/Day.png",
+      "FromArea": {
+        "X": 0,
+        "Y": 0,
+        "Width": 240,
+        "Height": 320
+      },
+      "AnimationFrameTime": 30,
+      "AnimationFrameCount": 2,
+      "When": {
+        "HasMod": "spacechase0.ContentPatcherAnimations",
+        "Time": "{{Range: 0600, 1900}}",
+        "Season": "Fall",
+        "Version": "Eemie"
+      },
+      "Update": "OnTimeChange"
+    },
+     {
+      "LogName": "Fall Nighttime Animated Greenhouse",
+      "Action": "EditImage",
+      "Target": "Buildings/Greenhouse",
+      "FromFile": "assets/{{version}}/Fall/Night.png",
+      "FromArea": {
+        "X": 0,
+        "Y": 0,
+        "Width": 240,
+        "Height": 320
+      },
+      "AnimationFrameTime": 30,
+      "AnimationFrameCount": 2,
+      "When": {
+        "HasMod": "spacechase0.ContentPatcherAnimations",
+        "Time": "{{Range: 1900, 2600}}",
+        "Season": "Fall",
+        "Version": "Eemie"
+      },
+      "Update": "OnTimeChange"
+    },
+    {
+      "LogName": "Winter Daytime Animated Greenhouse",
+      "Action": "EditImage",
+      "Target": "Buildings/Greenhouse",
+      "FromFile": "assets/{{version}}/Winter/Day.png",
+      "FromArea": {
+        "X": 0,
+        "Y": 0,
+        "Width": 240,
+        "Height": 320
+      },
+      "AnimationFrameTime": 30,
+      "AnimationFrameCount": 2,
+      "When": {
+        "HasMod": "spacechase0.ContentPatcherAnimations",
+        "Time": "{{Range: 0600, 1900}}",
+        "Season": "Winter",
+        "Version": "Eemie"
+      },
+      "Update": "OnTimeChange"
+    },
+     {
+      "LogName": "Winter Nighttime Animated Greenhouse",
+      "Action": "EditImage",
+      "Target": "Buildings/Greenhouse",
+      "FromFile": "assets/{{version}}/Winter/Night.png",
+      "FromArea": {
+        "X": 0,
+        "Y": 0,
+        "Width": 240,
+        "Height": 320
+      },
+      "AnimationFrameTime": 30,
+      "AnimationFrameCount": 2,
+      "When": {
+        "HasMod": "spacechase0.ContentPatcherAnimations",
+        "Time": "{{Range: 1900, 2600}}",
+        "Season": "Winter",
+        "Version": "Eemie"
+      },
+      "Update": "OnTimeChange"
+    }
+]
+}
