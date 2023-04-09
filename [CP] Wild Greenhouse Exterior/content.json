@@ -8,7 +8,7 @@
   },
 	"Changes": [
      {
-      "LogName": "Spring Daytime Animated Greenhouse",
+      "LogName": "Spring Daytime Animated Greenhouse Eemie",
       "Action": "EditImage",
       "Target": "Buildings/Greenhouse",
       "FromFile": "assets/Eemie/Spring/Day.png",
@@ -21,7 +21,7 @@
       "AnimationFrameTime": 30,
       "AnimationFrameCount": 2,
       "When": {
-        "HasMod": "spacechase0.ContentPatcherAnimations",
+        "HasMod": "spacechase0.ContentPatcherAnimations Eemie",
         "Time": "{{Range: 0600, 1900}}",
         "Season": "Spring",
         "Version": "Eemie",
@@ -29,7 +29,7 @@
       "Update": "OnTimeChange"
     },
      {
-      "LogName": "Spring Nighttime Animated Greenhouse",
+      "LogName": "Spring Nighttime Animated Greenhouse Eemie",
       "Action": "EditImage",
       "Target": "Buildings/Greenhouse",
       "FromFile": "assets/Eemie/Spring/Night.png",
@@ -42,7 +42,7 @@
       "AnimationFrameTime": 30,
       "AnimationFrameCount": 2,
       "When": {
-        "HasMod": "spacechase0.ContentPatcherAnimations",
+        "HasMod": "spacechase0.ContentPatcherAnimations Eemie",
         "Time": "{{Range: 1900, 2600}}",
         "Season": "Spring",
         "Version": "Eemie",
@@ -50,7 +50,7 @@
       "Update": "OnTimeChange"
     },
       {
-      "LogName": "Summer Daytime Animated Greenhouse",
+      "LogName": "Summer Daytime Animated Greenhouse Eemie",
       "Action": "EditImage",
       "Target": "Buildings/Greenhouse",
       "FromFile": "assets/Eemie/Summer/Day.png",
@@ -63,7 +63,7 @@
       "AnimationFrameTime": 30,
       "AnimationFrameCount": 2,
       "When": {
-        "HasMod": "spacechase0.ContentPatcherAnimations",
+        "HasMod": "spacechase0.ContentPatcherAnimations Eemie",
         "Time": "{{Range: 0600, 1900}}",
         "Season": "Summer",
         "Version": "Eemie",
@@ -71,7 +71,7 @@
       "Update": "OnTimeChange"
     },
      {
-      "LogName": "Summer Nighttime Animated Greenhouse",
+      "LogName": "Summer Nighttime Animated Greenhouse Eemie",
       "Action": "EditImage",
       "Target": "Buildings/Greenhouse",
       "FromFile": "assets/Eemie/Summer/Night.png",
@@ -92,7 +92,7 @@
       "Update": "OnTimeChange"
     },
       {
-      "LogName": "Fall Daytime Animated Greenhouse",
+      "LogName": "Fall Daytime Animated Greenhouse Eemie",
       "Action": "EditImage",
       "Target": "Buildings/Greenhouse",
       "FromFile": "assets/Eemie/Fall/Day.png",
@@ -113,7 +113,7 @@
       "Update": "OnTimeChange"
     },
      {
-      "LogName": "Fall Nighttime Animated Greenhouse",
+      "LogName": "Fall Nighttime Animated Greenhouse Eemie",
       "Action": "EditImage",
       "Target": "Buildings/Greenhouse",
       "FromFile": "assets/Eemie/Fall/Night.png",
@@ -134,7 +134,7 @@
       "Update": "OnTimeChange"
     },
     {
-      "LogName": "Winter Daytime Animated Greenhouse",
+      "LogName": "Winter Daytime Animated Greenhouse Eemie",
       "Action": "EditImage",
       "Target": "Buildings/Greenhouse",
       "FromFile": "assets/Eemie/Winter/Day.png",
@@ -155,7 +155,7 @@
       "Update": "OnTimeChange"
     },
      {
-      "LogName": "Winter Nighttime Animated Greenhouse",
+      "LogName": "Winter Nighttime Animated Greenhouse Eemie",
       "Action": "EditImage",
       "Target": "Buildings/Greenhouse",
       "FromFile": "assets/Eemie/Winter/Night.png",
@@ -176,7 +176,7 @@
       "Update": "OnTimeChange"
     },
 {
-      "LogName": "Spring Daytime Animated Greenhouse",
+      "LogName": "Spring Daytime Animated Greenhouse Vanilla",
       "Action": "EditImage",
       "Target": "Buildings/Greenhouse",
       "FromFile": "assets/Vanilla/Spring/Day.png",
@@ -197,7 +197,7 @@
       "Update": "OnTimeChange"
     },
      {
-      "LogName": "Spring Nighttime Animated Greenhouse",
+      "LogName": "Spring Nighttime Animated Greenhouse Vanilla",
       "Action": "EditImage",
       "Target": "Buildings/Greenhouse",
       "FromFile": "assets/Vanilla/Spring/Night.png",
@@ -218,7 +218,7 @@
       "Update": "OnTimeChange"
     },
       {
-      "LogName": "Summer Daytime Animated Greenhouse",
+      "LogName": "Summer Daytime Animated Greenhouse Vanilla",
       "Action": "EditImage",
       "Target": "Buildings/Greenhouse",
       "FromFile": "assets/Vanilla/Summer/Day.png",
@@ -239,7 +239,7 @@
       "Update": "OnTimeChange"
     },
      {
-      "LogName": "Summer Nighttime Animated Greenhouse",
+      "LogName": "Summer Nighttime Animated Greenhouse Vanilla",
       "Action": "EditImage",
       "Target": "Buildings/Greenhouse",
       "FromFile": "assets/Vanilla/Summer/Night.png",
@@ -260,7 +260,7 @@
       "Update": "OnTimeChange"
     },
       {
-      "LogName": "Fall Daytime Animated Greenhouse",
+      "LogName": "Fall Daytime Animated Greenhouse Vanilla",
       "Action": "EditImage",
       "Target": "Buildings/Greenhouse",
       "FromFile": "assets/Vanilla/Fall/Day.png",
@@ -281,7 +281,7 @@
       "Update": "OnTimeChange"
     },
      {
-      "LogName": "Fall Nighttime Animated Greenhouse",
+      "LogName": "Fall Nighttime Animated Greenhouse Vanilla",
       "Action": "EditImage",
       "Target": "Buildings/Greenhouse",
       "FromFile": "assets/Vanilla/Fall/Night.png",
@@ -302,7 +302,7 @@
       "Update": "OnTimeChange"
     },
     {
-      "LogName": "Winter Daytime Animated Greenhouse",
+      "LogName": "Winter Daytime Animated Greenhouse Vanilla",
       "Action": "EditImage",
       "Target": "Buildings/Greenhouse",
       "FromFile": "assets/Vanilla/Winter/Day.png",
@@ -323,7 +323,7 @@
       "Update": "OnTimeChange"
     },
      {
-      "LogName": "Winter Nighttime Animated Greenhouse",
+      "LogName": "Winter Nighttime Animated Greenhouse Vanilla",
       "Action": "EditImage",
       "Target": "Buildings/Greenhouse",
       "FromFile": "assets/Vanilla/Winter/Night.png",
